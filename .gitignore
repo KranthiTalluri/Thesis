@@ -1,0 +1,18 @@
+#Ignore the datasets folder
+Datasets
+Sample_dataset
+
+#Ignore the ipynb checkpoints
+.ipynb_checkpoints
+__pycache__
+
+#Ignore 2D_to_3D
+2D_to_3D
+
+#Ignore datafiles
+*.npy
+*.hd5
+*.hdf5
+
+
+*.gitignore.bak
